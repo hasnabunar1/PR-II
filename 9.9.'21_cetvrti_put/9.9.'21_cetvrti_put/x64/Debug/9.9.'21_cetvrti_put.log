@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Dell\source\PRII\9.9.'21_cetvrti_put\9.9.'21_cetvrti_put\Source.cpp(19,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\PRII\9.9.'21_cetvrti_put\9.9.'21_cetvrti_put\Source.cpp(367,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Dell\source\PRII\9.9.'21_cetvrti_put\9.9.'21_cetvrti_put\Source.cpp(110,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\PRII\9.9.'21_cetvrti_put\9.9.'21_cetvrti_put\Source.cpp(108,18): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,int,10> &)'
+C:\Users\Dell\source\PRII\9.9.'21_cetvrti_put\9.9.'21_cetvrti_put\Source.cpp(384,21): message : see the first reference to 'operator <<' in 'main'
+C:\Users\Dell\source\PRII\9.9.'21_cetvrti_put\9.9.'21_cetvrti_put\Source.cpp(380,22): message : see reference to class template instantiation 'Kolekcija<int,int,10>' being compiled
+C:\Users\Dell\source\PRII\9.9.'21_cetvrti_put\9.9.'21_cetvrti_put\Source.cpp(110,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\PRII\9.9.'21_cetvrti_put\9.9.'21_cetvrti_put\Source.cpp(104): warning C4715: 'Kolekcija<int,int,10>::operator[]': not all control paths return a value
+C:\Users\Dell\source\PRII\9.9.'21_cetvrti_put\9.9.'21_cetvrti_put\Source.cpp(183): warning C4715: 'Tehnika::AddOcjena': not all control paths return a value
+C:\Users\Dell\source\PRII\9.9.'21_cetvrti_put\9.9.'21_cetvrti_put\Source.cpp(352): warning C4715: 'KaratePolaznik::AddTehniku': not all control paths return a value
+  9.9.'21_cetvrti_put.vcxproj -> C:\Users\Dell\source\PRII\9.9.'21_cetvrti_put\x64\Debug\9.9.'21_cetvrti_put.exe

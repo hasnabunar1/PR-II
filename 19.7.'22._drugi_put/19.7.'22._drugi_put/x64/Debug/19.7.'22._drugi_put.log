@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Dell\source\repos\19.7.'22._drugi_put\19.7.'22._drugi_put\Source.cpp(16,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\19.7.'22._drugi_put\19.7.'22._drugi_put\Source.cpp(306,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\19.7.'22._drugi_put\19.7.'22._drugi_put\Source.cpp(306,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\19.7.'22._drugi_put\19.7.'22._drugi_put\Source.cpp(332,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Dell\source\repos\19.7.'22._drugi_put\19.7.'22._drugi_put\Source.cpp(99,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\19.7.'22._drugi_put\19.7.'22._drugi_put\Source.cpp(97,18): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,const Rjecnik<Karakteristike,const char *> &)'
+C:\Users\Dell\source\repos\19.7.'22._drugi_put\19.7.'22._drugi_put\Source.cpp(445,69): message : see the first reference to 'operator <<' in 'main'
+C:\Users\Dell\source\repos\19.7.'22._drugi_put\19.7.'22._drugi_put\Source.cpp(156,39): message : see reference to class template instantiation 'Rjecnik<Karakteristike,const char *>' being compiled
+C:\Users\Dell\source\repos\19.7.'22._drugi_put\19.7.'22._drugi_put\Source.cpp(99,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  19.7.'22._drugi_put.vcxproj -> C:\Users\Dell\source\repos\19.7.'22._drugi_put\x64\Debug\19.7.'22._drugi_put.exe

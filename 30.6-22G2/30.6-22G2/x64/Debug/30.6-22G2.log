@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Dell\source\repos\30.6-22G2\30.6-22G2\Source.cpp(16,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\30.6-22G2\30.6-22G2\Source.cpp(24,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\30.6-22G2\30.6-22G2\Source.cpp(334,13): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\Dell\source\repos\30.6-22G2\30.6-22G2\Source.cpp(342,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  30.6-22G2.vcxproj -> C:\Users\Dell\source\repos\30.6-22G2\x64\Debug\30.6-22G2.exe

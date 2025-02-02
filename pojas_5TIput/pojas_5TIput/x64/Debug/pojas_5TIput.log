@@ -1,0 +1,12 @@
+﻿  Source1.cpp
+C:\Users\Dell\source\repos\pojas_5TIput\pojas_5TIput\Source1.cpp(24,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\pojas_5TIput\pojas_5TIput\Source1.cpp(228,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\pojas_5TIput\pojas_5TIput\Source1.cpp(228,93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\pojas_5TIput\pojas_5TIput\Source1.cpp(405,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Dell\source\repos\pojas_5TIput\pojas_5TIput\Source1.cpp(111,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\pojas_5TIput\pojas_5TIput\Source1.cpp(109,18): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,int,10> &)'
+C:\Users\Dell\source\repos\pojas_5TIput\pojas_5TIput\Source1.cpp(419,21): message : see the first reference to 'operator <<' in 'main'
+C:\Users\Dell\source\repos\pojas_5TIput\pojas_5TIput\Source1.cpp(415,22): message : see reference to class template instantiation 'Kolekcija<int,int,10>' being compiled
+C:\Users\Dell\source\repos\pojas_5TIput\pojas_5TIput\Source1.cpp(111,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\pojas_5TIput\pojas_5TIput\Source1.cpp(86): warning C4715: 'Kolekcija<int,int,10>::operator[]': not all control paths return a value
+  pojas_5TIput.vcxproj -> C:\Users\Dell\source\repos\pojas_5TIput\x64\Debug\pojas_5TIput.exe
